@@ -1,0 +1,8 @@
+2018-10-14 04:46:06.291  INFO 12553 --- [RMI TCP Connection(492)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2018-10-14 04:46:06.307  INFO 12553 --- [RMI TCP Connection(492)-127.0.0.1] ConfigServletWebServerApplicationContext : Closing org.springframework.boot.web.servlet.context.AnnotationConfigServletWebServerApplicationContext@d35e6d2: startup date [Sat Oct 13 19:20:54 CDT 2018]; root of context hierarchy
+2018-10-14 04:46:06.311  INFO 12553 --- [RMI TCP Connection(492)-127.0.0.1] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans on shutdown
+2018-10-14 04:46:06.312  INFO 12553 --- [RMI TCP Connection(492)-127.0.0.1] o.s.j.e.a.AnnotationMBeanExporter        : Unregistering JMX-exposed beans
+2018-10-14 04:46:06.313  INFO 12553 --- [RMI TCP Connection(492)-127.0.0.1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2018-10-14 04:46:06.313  INFO 12553 --- [RMI TCP Connection(492)-127.0.0.1] .SchemaDropperImpl$DelayedDropActionImpl : HHH000477: Starting delayed drop of schema as part of SessionFactory shut-down'
+2018-10-14 04:46:06.325  INFO 12553 --- [RMI TCP Connection(492)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-5 - Shutdown initiated...
+2018-10-14 04:46:06.346  INFO 12553 --- [RMI TCP Connection(492)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-5 - Shutdown completed.
